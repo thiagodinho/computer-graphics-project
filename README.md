@@ -10,5 +10,6 @@
 <h4>  :ballot_box_with_check: O trabalho deve possuir implementações adicionais na modelagem (ao menos 5 funcionalidades/recursos distintos) que aumentem a qualidade e as funcionalidades do “jogo” e o grupo deverá propor ao professor essas modificações para que sejam aprovadas. O grupo deverá fazer uma entrega parcial com um breve relatório sobre o que será feito e quais serão as funcionalidades implementadas e posteriormente realizar a entrega final da implementação.  </h4>
 
 <h4> O trabalho foi feito por: Daniel Luiz Joaquim e Thiago Godinho </h4>
+<h4> 🔎 Referências: Bruno Aguilar da Cunha </h4>
 <h5> Exemplo de como ficou o jogo: </h5>
 <img src="/Exemplo_jogo.png" alt="Exemplo de como o jogo ficou">
