@@ -1,5 +1,6 @@
-<h2>Project presented for the conclusion of the Graphics Computing component. For this project, CodeBlocks was used with the assistance of Glaux.h. The requirements set by the professor for the project were as follows:</h2>
-
+<h2>Project presented for the conclusion of the Graphics Computing component. For this project, CodeBlocks was used with the assistance of Glaux.h.</h2>
+  
+<h3>The requirements set by the professor for the project were as follows:</h3>
 <h4>☑️ Replace the square with a circle.</h4>
 <h4>☑️ Each time the circle touches the screen boundaries, change the colors used.</h4>
 <h4>☑️ When the object touches the top or bottom of the screen, change the shape or size of the object. When the object touches the left or right side of the screen, change the shape or size of the object again.</h4>
