@@ -1,15 +1,15 @@
-<h1 align="center"> TeleJogo </h1>
-<h2 align="justify"> Trabalho apresentado para conclusão da componente Computação Gráfica </h2>
-<h3 align="justify"> Para o trabalho foi utilizado CodeBlocks com auxilio do Glaux.h </h3>
-<h3 align="justify"> Onde o solicitado pelo professor para o projeto era: </h3>
-<h4>  :ballot_box_with_check: Trocar o quadrado por um círculo. </h4>
-<h4>  :ballot_box_with_check: A cada vez que o círculo toca os limites da tela, trocar as cores utilizadas </h4>
-<h4>  :ballot_box_with_check: Quando o objeto tocar a parte superior ou inferior da tela, mudar o formato ou tamanho do objeto. Quando o objeto tocar no lado esquerdo ou direito da tela, mudar novamente o formato ou tamanho do objeto. </h4>
-<h4>  :ballot_box_with_check: Implementar dois retângulos (denominado cursor) como nos antigos “Telejogo”, no qual o usuário possa mover para cima ou para baixo (usando as teclas correspondentes). Desafio: Quando o objeto móvel tocar esse cursor, fazer com que ele seja rebatido (mude a direção), assim como ocorre com os outros cantos da tela. Reduza o objeto principal para que ele fique com um tamanho menor e proporcional ao cursor que foi criado.  </h4>
-<h4>  :ballot_box_with_check: Adicione iluminação e textura, na modelagem a ser realizada (obrigatório).  </h4>
-<h4>  :ballot_box_with_check: O trabalho deve possuir implementações adicionais na modelagem (ao menos 5 funcionalidades/recursos distintos) que aumentem a qualidade e as funcionalidades do “jogo” e o grupo deverá propor ao professor essas modificações para que sejam aprovadas. O grupo deverá fazer uma entrega parcial com um breve relatório sobre o que será feito e quais serão as funcionalidades implementadas e posteriormente realizar a entrega final da implementação.  </h4>
+<h2>Project presented for the conclusion of the Graphics Computing component. For this project, CodeBlocks was used with the assistance of Glaux.h. The requirements set by the professor for the project were as follows:</h2>
 
-<h4> O trabalho foi feito por: Daniel Luiz Joaquim e Thiago Godinho </h4>
-<h4> 🔎 Referências: Bruno Aguilar da Cunha </h4>
-<h5> Exemplo de como ficou o jogo: </h5>
+<h3>☑️ Replace the square with a circle.
+☑️ Each time the circle touches the screen boundaries, change the colors used.
+☑️ When the object touches the top or bottom of the screen, change the shape or size of the object. When the object touches the left or right side of the screen, change the shape or size of the object again.
+☑️ Implement two rectangles (referred to as cursors), in which the user can move up or down (using the corresponding keys). Challenge: When the moving object touches this cursor, make it bounce (change direction), as it does with the other corners of the screen. Reduce the main object so that it is smaller and proportional to the cursor that was created.
+☑️ Add lighting and texture to the modeling to be performed.
+☑️ The project must have additional implementations in the modeling (at least 5 distinct features/resources) that increase the quality and functionality of the game, and the group must propose these modifications to the professor for approval. The group must make a partial delivery with a brief report on what will be done and which functionalities will be implemented, and later make the final delivery of the implementation.</h3>
+
+<h3>Project done by: Thiago Godinho Antunes and Daniel Luiz Joaquim.</h3>
+
+<h3>🔎 References: Bruno Aguilar da Cunha.</h3>
+
+<h3>Example of how the game turned out:</h3>
 <img src="/Exemplo_jogo.png" alt="Exemplo de como o jogo ficou">
